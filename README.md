@@ -1,4 +1,4 @@
-
+# Game 2048 
 ![image](https://github.com/eduardogarcot/game-2048/assets/64402545/91ec0018-7640-4c59-9de9-bfde76f4b3a3)
 
 ## Description
@@ -28,7 +28,7 @@ The 2048 Game is a popular puzzle game where the objective is to slide numbered 
 
 ## Installation
 
-1. Clone the repository: git clone https://github.com/your-username/2048-game.git
+1. Clone the repository: git clone [https://github.com/your-username/2048-game.git](https://github.com/eduardogarcot/game-2048.git)
 2. Open the project in Visual Studio.
 3. Build the solution.
 4. Run the application.
