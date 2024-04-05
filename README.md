@@ -11,8 +11,9 @@ The 2048 Game is a popular puzzle game where the objective is to slide numbered 
   - Score tracking to keep track of the player's progress.
   - Best score tracking to record the highest score achieved.
   - Game over detection when the grid is full and no more moves are possible.
-  - Responsive design that adapts to different screen sizes.
-  - Sound effects and animations for an enhanced gaming experience.
+  - Availability to play on different grid sizes, ranging from 4x4 to 16x16.
+  - Save and load game functionality to continue gameplay from where you left off.
+
 
 ## How to Play
 
@@ -21,10 +22,6 @@ The 2048 Game is a popular puzzle game where the objective is to slide numbered 
 3. The objective is to create a tile with the number 2048.
 4. The game ends when the grid is full and no more moves are possible.
 
-## Technologies Used- HTML, CSS, and JavaScript for the front-end development.
-- [Library/Framework Name] for [specific functionality or feature].
-- [Library/Framework Name] for [specific functionality or feature].
-- [Any other technologies or tools used in the project].
 
 ## Installation
 
